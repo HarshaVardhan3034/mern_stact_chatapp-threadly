@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](Screenshot 2025-06-18 101354.png)
+![Demo App](/Screenshot 2025-06-18 101354.png)
 
 ![Screenshot of my application](/Screenshot 2025-06-18 101354.png)
 Highlights:
